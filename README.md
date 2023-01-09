@@ -1,1 +1,2 @@
-# Smart-Irrigation-System
+# Smart Irrigation System
+Smart irrigation systems are automated devices that optimize irrigation schedules and save water by using sensors, weather information, and other data. A smart irrigation system's major goals are water conservation, irrigation schedule optimization, and plant health improvement. The utilization of communication technologies could be seen as a crucial and essential aspect of the implementation of IoT devices in order to achieve successful operations.
